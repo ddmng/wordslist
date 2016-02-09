@@ -5,3 +5,8 @@ This repository collects all the terms taken from different languages. It can be
 * create random accounts, password or sentences
 * check how many terms of a given language are contained in a text
 * ANY OTHER IDEAS?
+
+Currently supported:
+* English
+* Spanish
+* I'm searching for French words!
